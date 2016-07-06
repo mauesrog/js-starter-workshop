@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: darken(white, 40);
+}
+
+p {
+  width: 33%;
+  text-align: center;
+}
+
+div#main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
+}
